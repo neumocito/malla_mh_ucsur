@@ -1,0 +1,1 @@
+// El archivo JavaScript real se genera desde React, aquí es un marcador.
